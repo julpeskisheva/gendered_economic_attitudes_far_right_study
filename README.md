@@ -67,7 +67,7 @@ Cross-sectional data cannot support causal claims. The gendered economic attitud
 | File | Description |
 |---|---|
 | `Why_Young_Men_Turn_to_the_Far_Right.pdf` | Full paper, including country-by-party far-right coding scheme in the appendix |
-| `Young_males_voting_for_the_far_right.ipynb` / `.py` | Data subsetting, variable construction, index standardisation, reliability and multicollinearity diagnostics, and estimation of all four models |
+| `Young_males_voting_for_the_far_right.ipynb` | Data subsetting, variable construction, index standardisation, reliability and multicollinearity diagnostics, and estimation of all four models |
 
 ## Data availability
 
